@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Sina-Afshar/HRMS.Java/tree/master/hrms/src/main/java/kodlamaio/hrms"> <img width=18 src="https://r.resimlink.com/QKL2.png"> Main Directory </a>
 
-<a href="https://github.com/Sina-Afshar/HRMS.PostgreSQL"> <img width=17 src="https://github.com/karcan/javaBootcamp/blob/master/images/postgresql-32.png?raw=true"> PostgreSQL</a>
+<a href="https://github.com/Sina-Afshar/HRMS.PostgreSQL"> <img width=17 src="https://r.resimlink.com/Yosz.png"> PostgreSQL</a>
 
 Spring - JavaSE-16.0.1 (jre) based.
 
