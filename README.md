@@ -3,7 +3,7 @@
 
 <a href="https://github.com/Sina-Afshar/HRMS.PostgreSQL"> <img width=17 src="https://github.com/karcan/javaBootcamp/blob/master/images/postgresql-32.png?raw=true"> PostgreSQL</a>
 
-Spring - JavaSE-11 (jre) based.
+Spring - JavaSE-16.0.1 (jre) based.
 
 Dependencies
 - Spring Boot DevTools
