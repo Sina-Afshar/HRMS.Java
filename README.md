@@ -1,5 +1,5 @@
 # HRMS (Human Resource Management System)
-<img src="https://imgyukle.com/i/kyTLjH"></img>
+<img src="https://imgyukle.com/f/2021/10/19/kyTLjH.jpg"></img>
 
 <a href="https://github.com/Sina-Afshar/HRMS.Java/tree/master/hrms/src/main/java/kodlamaio/hrms"> <img width=18 src="https://r.resimlink.com/QKL2.png"> Main Directory </a>
 
